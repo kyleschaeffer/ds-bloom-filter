@@ -1,0 +1,16 @@
+{
+  "name": "ds-bloom-filter",
+  "version": "0.1.0",
+  "description": "A simple implementation of the bloom filter data structure",
+  "scripts": {
+    "test": "yarn jest"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.15",
+    "@types/xxhashjs": "^0.2.1",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3",
+    "xxhashjs": "^0.2.2"
+  }
+}
